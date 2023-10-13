@@ -1,3 +1,3 @@
 # evtruong.github.io
-Deploy my_recipe webpage
+General repo here
 Lane Tech, Chicago, IL
