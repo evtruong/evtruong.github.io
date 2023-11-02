@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+    font-family:'Courier New', 'Monaco', monospace
+}
+h2 {
+    font-family:'Courier New', 'Monaco', monospace
+}
+h3 {
+    font-family:'Courier New', 'Monaco', monospace
+}
+img {
+    display:block;
+    position:absolute;
+    right:0px;
+    width: 30%
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 900px;
+}
+a{
+    color: darkred;
+}
+.citations {
+    color: goldenrod;
+}
+#referencetitle {
+    color: darkred;
+}
