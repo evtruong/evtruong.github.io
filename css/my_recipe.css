@@ -1,6 +1,10 @@
 body {
     background-color: #FDFD96;
 }
+div {
+    background-color: #FF6961;
+    border: 5px #8B4000;
+}
 h1 {
     text-align: center;
     font-family:'Courier New', 'Monaco', monospace
