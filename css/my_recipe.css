@@ -25,7 +25,7 @@ a{
     color: darkred;
 }
 .citations {
-    color: darkred;
+    font-size: 5px;
 }
 #referencetitle {
     font-style: italic;
