@@ -25,10 +25,11 @@ li {
     font-style: bold;
 }
 a{
-    color: darkred;
+    color: #8B0000;
 }
 .citations {
     font-size: 12px;
+    color: #8B4000;
 }
 #referencetitle {
     font-style: italic;
