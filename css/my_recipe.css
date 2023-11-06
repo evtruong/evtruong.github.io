@@ -1,3 +1,6 @@
+body {
+    background-color: #FDFD96;
+}
 h1 {
     text-align: center;
     font-family:'Courier New', 'Monaco', monospace
@@ -23,7 +26,6 @@ a{
 }
 .citations {
     color: darkred;
-    background-color: #FDFD96;
 }
 #referencetitle {
     font-style: italic;
